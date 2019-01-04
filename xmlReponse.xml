@@ -1,0 +1,24 @@
+<findIndividualsResponseMsg xmlns="http://enterprise.optum.com/schema/message/v11/c360/find/individual/v5/">
+   <individualPagination>
+      <pageNumber>1</pageNumber>
+      <pageSize>20</pageSize>
+      <recordCount>1</recordCount>
+      <totalCount>1</totalCount>
+      <totalPages>1</totalPages>
+      <recordLimitExceeded>false</recordLimitExceeded>
+   </individualPagination>
+   <individual>
+      <individualDemographics>
+         <individualIdentifier>88796151</individualIdentifier>
+         <individualFirstName>Alfonzy</individualFirstName>
+         <individualLastName>Vaughn</individualLastName>
+         <individualMiddleName/>
+         <individualMiddleInitialText/>
+         <birthDate>1969-08-10</birthDate>
+         <nameSuffixCode/>
+         <genderTypeCode>M</genderTypeCode>
+         <socialSecurityNumber>132668253</socialSecurityNumber>
+         <deceasedDate/>
+      </individualDemographics>    
+   </individual>
+</findIndividualsResponseMsg>
